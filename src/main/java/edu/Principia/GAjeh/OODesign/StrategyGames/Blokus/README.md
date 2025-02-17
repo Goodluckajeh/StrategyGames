@@ -1,4 +1,4 @@
-## This is just the code to the implementation of the Blockus Game
+## This is just the code to the implementation of the Blokus Game
 
 ## Contact me for more info
 
