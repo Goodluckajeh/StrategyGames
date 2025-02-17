@@ -1,0 +1,8 @@
+testRun 1 100
+testRun 1 200
+testRun 1 400
+testRun 1 800
+testRun 1 1600
+showBoard
+testRun 1 3200
+showBoard

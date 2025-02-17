@@ -1,0 +1,50 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "BoardTest",
+            "request": "launch",
+            "mainClass": "edu.principia.OODesign.StrategyGames.BoardTest",
+            "projectName": "strategygames"
+        },
+        {
+            "type": "java",
+            "name": "Tournament",
+            "request": "launch",
+            "mainClass": "edu.principia.OODesign.StrategyGames.Tournament",
+            "projectName": "strategygames"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "edu.principia.GAjeh.OODesign.StrategyGames.App",
+            "projectName": "strategygames"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}",
+            "vmArgs": "-Xmx1024m"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "edu.principia.GAjeh.OODesign.StrategyGames.App",
+            "projectName": "strategygames",
+            "vmArgs": "-Xmx1024m"
+        },
+        {
+            "type": "java",
+            "name": "BoardTest",
+            "request": "launch",
+            "mainClass": "edu.principia.OODesign.StrategyGames.BoardTest",
+            "projectName": "strategygames",
+            "args": "TTT.TicTacToeBoard",
+            "vmArgs": "-Xmx1024m"
+        }
+    ]
+}

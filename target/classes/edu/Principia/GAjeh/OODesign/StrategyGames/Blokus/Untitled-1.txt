@@ -1,0 +1,3 @@
+doMove I2 | 5,5
+doMove I5 | 10,10
+showBoard
